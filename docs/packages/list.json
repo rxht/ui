@@ -1,0 +1,68 @@
+[
+  {
+    "compName": "Icon",
+    "compZhName": "图标",
+    "compDesc": "这是一个图标",
+    "compClassName": "icon"
+  },
+  {
+    "compName": "Button",
+    "compZhName": "按钮",
+    "compDesc": "这是一个按钮",
+    "compClassName": "button"
+  },
+  {
+    "compName": "Color",
+    "compZhName": "颜色",
+    "compDesc": "这是一个颜色",
+    "compClassName": "color"
+  },
+  {
+    "compName": "Table",
+    "compZhName": "表格",
+    "compDesc": "这是一个表格",
+    "compClassName": "table"
+  },
+  {
+    "compName": "Input",
+    "compZhName": "输入框",
+    "compDesc": "这是一个输入框",
+    "compClassName": "input"
+  },
+  {
+    "compName": "Slider",
+    "compZhName": "滑块",
+    "compDesc": "这是一个滑块",
+    "compClassName": "slider"
+  },
+  {
+    "compName": "Tooltip",
+    "compZhName": "文字提示",
+    "compDesc": "这是一个文字提示",
+    "compClassName": "tooltip"
+  },
+  {
+    "compName": "Message",
+    "compZhName": "消息提示",
+    "compDesc": "这是一个消息提示",
+    "compClassName": "message"
+  },
+  {
+    "compName": "Switch",
+    "compZhName": "开关",
+    "compDesc": "这是一个开关",
+    "compClassName": "switch"
+  },
+  {
+    "compName": "BackTop",
+    "compZhName": "回到顶部",
+    "compDesc": "这是一个回到顶部组件",
+    "compClassName": "back-top"
+  },
+  {
+    "compName": "TextArea",
+    "compZhName": "文本域",
+    "compDesc": "这是一个文本域",
+    "compClassName": "text-area"
+  }
+]
