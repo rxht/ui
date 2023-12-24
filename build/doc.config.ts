@@ -5,6 +5,6 @@ export default defineConfig({
   ...baseConfig,
   base: '/',
   build: {
-    outDir: 'docx'
+    outDir: 'docs'
   }
 });
