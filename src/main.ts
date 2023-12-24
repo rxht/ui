@@ -5,7 +5,7 @@ import router from '@/router';
 import '@/assets/markdown.css';
 
 // import rxhui from '../dist/rxh-ui.es';
-import rxhui from 'Packages';
+import rxhui from '../packages';
 import Preview from '@/components/Preview.vue';
 
 const app = createApp(App);

@@ -74,6 +74,7 @@ const showSourceCode = () => {
 pre {
   line-height: 0;
 }
+
 .rxhui-preview {
   border: 4px;
   border: 1px dashed #e7e7e7;
