@@ -52,7 +52,7 @@ onMounted(async () => {
       ).default;
     } else {
       sourceCode.value = await fetch(
-        `${isDev ? '' : ''}/packages/${props.compName}/docs/${
+        `${isDev ? '' : '/ui'}/packages/${props.compName}/docs/${
           props.demoName
         }.vue`
       ).then((res) => res.text());
