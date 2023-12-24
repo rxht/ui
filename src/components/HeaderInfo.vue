@@ -8,6 +8,7 @@
       <div class="version">V{{ version }}</div>
     </div>
     <div class="toolsBox">
+      <a href="https://rxht.github.io/wiki">博客首页</a>
       <div
         v-for="(item, index) in tools"
         :key="index"
